@@ -215,7 +215,7 @@ pip install -r requirements.txt
 
 Data Analyst | Machine Learning Engineer | AI Engineer
 
-GitHub: https://github.com/DataExpert0112
+GitHub: https://github.com/Mastean12
 
 ---
 
